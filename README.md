@@ -1,5 +1,3 @@
-# V60Boost
-Solo para el LG v60
 name: Crear APK V60 Boost
 
 on:
